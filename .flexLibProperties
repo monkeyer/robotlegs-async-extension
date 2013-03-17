@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="robotlegs.async.AsyncExtension"/>
+    <classEntry path="robotlegs.async.command.api.ICommandExecutor"/>
+    <classEntry path="robotlegs.async.command.impl.AbstractGroupCommand"/>
+    <classEntry path="robotlegs.async.command.impl.AsyncCommand"/>
+    <classEntry path="robotlegs.async.command.impl.CommandExecutor"/>
+    <classEntry path="robotlegs.async.command.impl.ParallelCommand"/>
+    <classEntry path="robotlegs.async.command.impl.SequenceCommand"/>
+    <classEntry path="robotlegs.async.responer.api.ICompositeResponder"/>
+    <classEntry path="robotlegs.async.responer.api.IResponder"/>
+    <classEntry path="robotlegs.async.responer.api.IResponderBuilder"/>
+    <classEntry path="robotlegs.async.responer.dsl.ResponderBuilder"/>
+    <classEntry path="robotlegs.async.responer.impl.CompositeResponder"/>
+    <classEntry path="robotlegs.async.responer.impl.CompositeResponderProvider"/>
+    <classEntry path="robotlegs.async.responer.impl.Responder"/>
+    <classEntry path="robotlegs.async.responer.impl.ResponseEvent"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
